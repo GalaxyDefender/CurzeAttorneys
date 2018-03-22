@@ -1,20 +1,39 @@
 body {
     background-image: url("../img/FrontPage.jpg");
     color: white;
+    /* filter: blur(4.4px); */
 }
 
 #logo {
     position: relative;
     margin-left: 200px;
-    /* color: blue; */
 }
+
+.call-to-action {
+    margin-top: -80px;
+}
+
+.heading {
+    position: relative;
+    text-align: center;
+    text-transform: uppercase; 
+    /* line-height: 1.8px; */
+}
+
+/* .h1>.heading {
+    line-height: 2.8px;
+} */
 
 .navbar-default {
     background-color: transparent;
     border-color: transparent;
-    /* color: white; */
+    margin-bottom: 50px;
 }
 
 .navbar-default .navbar-nav > li > a {
     color: white;
+}
+
+.testimony {
+    background: rgba(42, 160, 177, 0.3);
 }

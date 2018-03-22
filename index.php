@@ -12,11 +12,9 @@
 <body>
     <h1 id="logo">Curze <br>Attorneys</h1>
     <div class="container">
-        <!-- <div class="row"> -->
             <div class="col-md-offset-6">
-                <h4>Call now <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>  084 555 654</h4> 
+                <h4 class="call-to-action">Call now <span class="glyphicon glyphicon-earphone" aria-hidden="true"></span>  084 555 654</h4> 
             </div>
-        <!-- </div> -->
         
         <nav class="navbar navbar-default" role="navigation">
             <!-- Brand and toggle get grouped for better mobile display -->
@@ -42,15 +40,18 @@
             </div><!-- /.navbar-collapse -->
         </nav>
 
-        <h1>Ranked #1</h1>
-        <h1>Construction Law Firm</h1>
-        <h1>In South Africa</h1>
+        <h1 class="heading"><u>Ranked #1</u> <br> Construction Law Firm <br>In South Africa</h1>
 
-        <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla” pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+        <div class="testimony">
+            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla” pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
         <p>- Happy Client</p>
-
-        <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla” pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
-        <p>- Another Happy Client</p>
+        </div>
+        
+        <div class="testimony">
+            <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla” pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
+            <p>- Another Happy Client</p>
+        </div>
+        
     </div>
   
 </body>
